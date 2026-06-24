@@ -28,7 +28,7 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 
 ### Dynamic Country-Level Sales Report
 
-![Dynamic Report](Dynamic_Country_Sales_Report.png)
+![Dynamic Report](images/Dynamic_Country_Sales_Report.png)
 
 ### Product Discontinuation Analysis
 
