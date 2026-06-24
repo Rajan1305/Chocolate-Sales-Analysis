@@ -55,7 +55,7 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 ![Anomaly Detection](images/Anomaly_Detection.png)
 ## 📂 Repository Contents
 
-* First Excel Project.xlsx
+* Chocolate_Sales_Analysis.xlsx
 * README.md
 * images/
 
