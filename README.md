@@ -61,4 +61,3 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 B.Tech (AI & ML) | Aspiring Data Analyst
 
 Excel • SQL • Python • Power BI
-<img width="1917" height="1015" alt="Dynamic Country Sales Report" src="https://github.com/user-attachments/assets/db26ca73-2266-46de-8afd-ad7f73997699" />
