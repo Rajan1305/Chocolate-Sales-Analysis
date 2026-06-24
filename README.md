@@ -28,23 +28,23 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 
 ### Dynamic Country-Level Sales Report
 
-![Dynamic Report](dynamic_country_report.png)
+![Dynamic Report](Dynamic_Country_Sales_Report.png)
 
 ### Product Discontinuation Analysis
 
-![Products to Discontinue](products_to_discontinue.png)
+![Products to Discontinue](Products_to_Discontinue.png)
 
 ### Product Profitability Analysis
 
-![Profit Analysis](profit_by_product.png)
+![Profit Analysis](Profit_by_Product.png)
 
 ### Sales by Country Analysis
 
-![Sales by Country](sales_by_country.png)
+![Sales by Country](Sales_by_Country.png)
 
 ### Anomaly Detection
 
-![Anomaly Detection](anomaly_detection.png)
+![Anomaly Detection](Anomaly_Detection.png)
 ## 📂 Repository Contents
 
 * First Excel Project.xlsx
