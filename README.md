@@ -1,4 +1,12 @@
-# 🍫 Chocolate Sales Data Analysis | Microsoft Excel
+<p align="center">
+  <img src="images/Dynamic_Country_Sales_Report.png" width="900" alt="Dynamic Country Report"/>
+</p>
+
+<h1 align="center">🍫 Chocolate Sales Data Analysis</h1>
+
+<p align="center">
+  Excel Sales Analytics Project | EDA | Pivot Tables | Profitability Analysis | Anomaly Detection
+</p>
 
 ## 📊 Project Overview
 
