@@ -32,19 +32,19 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 
 ### Product Discontinuation Analysis
 
-![Products to Discontinue](Products_to_Discontinue.png)
+![Products to Discontinue](images/Products_to_Discontinue.png)
 
 ### Product Profitability Analysis
 
-![Profit Analysis](Profit_by_Product.png)
+![Profit Analysis](images/Profit_by_Product.png)
 
 ### Sales by Country Analysis
 
-![Sales by Country](Sales_by_Country.png)
+![Sales by Country](images/Sales_by_Country.png)
 
 ### Anomaly Detection
 
-![Anomaly Detection](Anomaly_Detection.png)
+![Anomaly Detection](images/Anomaly_Detection.png)
 ## 📂 Repository Contents
 
 * First Excel Project.xlsx
