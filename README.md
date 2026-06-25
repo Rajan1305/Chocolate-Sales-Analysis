@@ -33,6 +33,7 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 
 ## 📌 Key Analyses
 
+* Descriptive Statistics
 * Sales by Country Analysis
 * Product Profitability Analysis
 * Anomaly Detection
