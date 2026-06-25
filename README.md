@@ -8,11 +8,15 @@
   Excel Sales Analytics Project | EDA | Pivot Tables | Profitability Analysis | Anomaly Detection
 </p>
 
+---
+
 ## 📊 Project Overview
 
 This project analyzes chocolate manufacturing and distribution sales data using Microsoft Excel. The objective was to transform raw sales transactions into actionable business insights through exploratory data analysis, profitability analysis, anomaly detection, and interactive reporting.
 
-**Dataset:** 300+ Sales Transactions across multiple Countries.
+**Dataset:** 300+ Chocolate Sales Transactions across multiple Countries.
+
+---
 
 ## 🛠 Skills Demonstrated
 
@@ -25,6 +29,8 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 * Anomaly Detection
 * Interactive Reporting
 
+---
+
 ## 📌 Key Analyses
 
 * Sales by Country Analysis
@@ -33,6 +39,10 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 * Best Salesperson Analysis
 * Dynamic Country-Level Sales Reporting
 * Product Discontinuation Recommendations
+
+---
+
+## 🖼 Project Screenshots
 
 ### Dynamic Country-Level Sales Report
 
@@ -53,16 +63,13 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 ### Anomaly Detection
 
 ![Anomaly Detection](images/Anomaly_Detection.png)
-## 📂 Repository Contents
 
-* Chocolate_Sales_Analysis.xlsx
-* README.md
-* images/
+---
 
 ## 👨‍💻 Author
 
 **Rajan**
 
-B.Tech (AI & ML) | Aspiring Data Analyst
+B.Tech (Artificial Intelligence & Machine Learning)
 
-Excel • SQL • Python • Power BI
+Aspiring Data Analyst | Microsoft Excel | SQL | Python | Power BI
