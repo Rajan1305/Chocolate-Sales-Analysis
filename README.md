@@ -12,7 +12,7 @@
 
 This project analyzes chocolate manufacturing and distribution sales data using Microsoft Excel. The objective was to transform raw sales transactions into actionable business insights through exploratory data analysis, profitability analysis, anomaly detection, and interactive reporting.
 
-**Dataset:** 300+ Sales Transactions
+**Dataset:** 300+ Sales Transactions across multiple Countries.
 
 ## 🛠 Skills Demonstrated
 
