@@ -17,7 +17,7 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 ## 🛠 Skills Demonstrated
 
 * Pivot Tables & Pivot Charts
-* Advanced Excel Formulas
+* Advanced Excel Functions (XLOOKUP, SUMIFS, IF)
 * Conditional Formatting
 * Data Validation
 * Exploratory Data Analysis (EDA)
