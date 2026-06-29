@@ -45,6 +45,10 @@ This project analyzes chocolate manufacturing and distribution sales data using 
 
 ## 🖼 Project Screenshots
 
+### Dataset & Problem Statement
+
+![Dynamic Report](images/Problem_statement.png)
+
 ### Dynamic Country-Level Sales Report
 
 ![Dynamic Report](images/Dynamic_Country_Sales_Report.png)
